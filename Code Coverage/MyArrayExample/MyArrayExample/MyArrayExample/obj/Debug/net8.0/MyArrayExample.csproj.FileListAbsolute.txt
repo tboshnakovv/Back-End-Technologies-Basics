@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\bin\Debug\net8.0\MyArrayExample.exe
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\bin\Debug\net8.0\MyArrayExample.deps.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\bin\Debug\net8.0\MyArrayExample.runtimeconfig.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\bin\Debug\net8.0\MyArrayExample.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\bin\Debug\net8.0\MyArrayExample.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\obj\Debug\net8.0\MyArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\obj\Debug\net8.0\MyArrayExample.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\obj\Debug\net8.0\MyArrayExample.AssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\obj\Debug\net8.0\MyArrayExample.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\obj\Debug\net8.0\MyArrayExample.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\obj\Debug\net8.0\refint\MyArrayExample.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\obj\Debug\net8.0\MyArrayExample.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\obj\Debug\net8.0\MyArrayExample.genruntimeconfig.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MyArrayExample\MyArrayExample\obj\Debug\net8.0\ref\MyArrayExample.dll

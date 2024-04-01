@@ -1,0 +1,24 @@
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.deps.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.AssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\refint\ItemManagementLib.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ref\ItemManagementLib.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.deps.json
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\bin\Debug\net6.0\ItemManagementLib.pdb
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.csproj.AssemblyReference.cache
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.AssemblyInfoInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.AssemblyInfo.cs
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\obj\Debug\net6.0\refint\ItemManagementLib.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ItemManagementLib.pdb
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementLib\obj\Debug\net6.0\ref\ItemManagementLib.dll

@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll

@@ -1,0 +1,112 @@
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.exe
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Data\Seed\movies.json
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.deps.json
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.runtimeconfig.json
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.pdb
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.csproj.AssemblyReference.cache
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.AssemblyInfoInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.AssemblyInfo.cs
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.csproj.CoreCompileInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.csproj.CopyComplete
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\refint\MoviesLibraryAPI.dll
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.pdb
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.genruntimeconfig.cache
+C:\Users\sanny\OneDrive\Работен плот\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\ref\MoviesLibraryAPI.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.exe
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\appsettings.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Data\Seed\movies.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.deps.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.runtimeconfig.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MoviesLibraryAPI.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\DnsClient.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\nunit.framework.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\SharpCompress.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\Snappier.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\ZstdSharp.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.AssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.csproj.CopyComplete
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\refint\MoviesLibraryAPI.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\MoviesLibraryAPI.genruntimeconfig.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\MoviesLibraryAPI\obj\Debug\net6.0\ref\MoviesLibraryAPI.dll

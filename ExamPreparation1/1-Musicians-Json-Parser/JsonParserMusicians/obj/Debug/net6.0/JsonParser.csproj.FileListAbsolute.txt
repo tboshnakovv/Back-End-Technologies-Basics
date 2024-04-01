@@ -1,0 +1,15 @@
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.exe
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\Datasets\Musicians.json
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.deps.json
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.dll
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\bin\Debug\net6.0\JsonParser.pdb
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.dll
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\refint\JsonParser.dll
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.pdb
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+C:\Users\sanny\OneDrive\Работен плот\19.02.2024 ExamPreparation1\1-Musicians-Json-Parser\JsonParserMusicians\obj\Debug\net6.0\ref\JsonParser.dll

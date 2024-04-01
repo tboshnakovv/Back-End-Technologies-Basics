@@ -1,0 +1,28 @@
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.AssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.csproj.CoreCompileInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.AssemblyInfoInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.AssemblyInfo.cs
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.csproj.CoreCompileInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.exe
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.deps.json
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.runtimeconfig.json
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.dll
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.pdb
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.dll
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\obj\Debug\net6.0\refint\GetGreeting.dll
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.pdb
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.genruntimeconfig.cache
+C:\Users\sanny\OneDrive\Работен плот\GetGreeting\GetGreeting\obj\Debug\net6.0\ref\GetGreeting.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.exe
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.deps.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.runtimeconfig.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\bin\Debug\net6.0\GetGreeting.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\obj\Debug\net6.0\refint\GetGreeting.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\obj\Debug\net6.0\GetGreeting.genruntimeconfig.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\GetGreeting\GetGreeting\obj\Debug\net6.0\ref\GetGreeting.dll

@@ -1,0 +1,90 @@
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\appsettings.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.staticwebassets.runtime.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.exe
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.deps.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.runtimeconfig.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.AssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.RazorAssemblyInfo.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.RazorAssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.MVCIntroDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.MVCIntroDemo.props
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCIntroDemo.props
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCIntroDemo.props
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\scopedcss\bundle\MVCIntroDemo.styles.css
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\scopedcss\projectbundle\MVCIntroDemo.bundle.scp.css
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\refint\MVCIntroDemo.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.genruntimeconfig.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\13.02.24 Code Coverage\MyArrayExample\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\ref\MVCIntroDemo.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\appsettings.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.staticwebassets.runtime.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.exe
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.deps.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.runtimeconfig.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.AssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.RazorAssemblyInfo.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.RazorAssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.MVCIntroDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.MVCIntroDemo.props
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCIntroDemo.props
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCIntroDemo.props
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\scopedcss\bundle\MVCIntroDemo.styles.css
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\scopedcss\projectbundle\MVCIntroDemo.bundle.scp.css
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\refint\MVCIntroDemo.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.genruntimeconfig.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\26.02.24 ASP.NET Core Introduction\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\ref\MVCIntroDemo.dll
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\appsettings.json
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.staticwebassets.runtime.json
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.exe
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.deps.json
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.runtimeconfig.json
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.dll
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\bin\Debug\net8.0\MVCIntroDemo.pdb
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.AssemblyInfoInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.AssemblyInfo.cs
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.csproj.CoreCompileInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.RazorAssemblyInfo.cache
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.RazorAssemblyInfo.cs
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.MVCIntroDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.MVCIntroDemo.props
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCIntroDemo.props
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCIntroDemo.props
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\scopedcss\bundle\MVCIntroDemo.styles.css
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\scopedcss\projectbundle\MVCIntroDemo.bundle.scp.css
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.dll
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\refint\MVCIntroDemo.dll
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.pdb
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\MVCIntroDemo.genruntimeconfig.cache
+C:\Users\sanny\OneDrive\Работен плот\MVCIntroDemo\MVCIntroDemo\obj\Debug\net8.0\ref\MVCIntroDemo.dll

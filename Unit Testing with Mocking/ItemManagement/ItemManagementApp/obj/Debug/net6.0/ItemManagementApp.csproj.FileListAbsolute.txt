@@ -1,0 +1,118 @@
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.exe
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.deps.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.runtimeconfig.json
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementLib.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementLib.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.AssemblyInfo.cs
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.csproj.CopyComplete
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\refint\ItemManagementApp.dll
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.pdb
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.genruntimeconfig.cache
+D:\Visual Studio Projects\Back-End Technologies Basics - January 2024\06.02.24 Unit Testing with Mocking\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ref\ItemManagementApp.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.exe
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.deps.json
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.runtimeconfig.json
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementApp.pdb
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementLib.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\bin\Debug\net6.0\ItemManagementLib.pdb
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.csproj.AssemblyReference.cache
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.AssemblyInfoInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.AssemblyInfo.cs
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.csproj.CopyComplete
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\refint\ItemManagementApp.dll
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.pdb
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ItemManagementApp.genruntimeconfig.cache
+C:\Users\sanny\OneDrive\Работен плот\ItemManagement\ItemManagementApp\obj\Debug\net6.0\ref\ItemManagementApp.dll
